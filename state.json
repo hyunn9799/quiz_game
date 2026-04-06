@@ -1,0 +1,56 @@
+{
+    "quizzes": [
+        {
+            "question": "Python에서 문자열을 저장할 때 사용하는 자료형은?",
+            "choices": [
+                "int",
+                "str",
+                "bool",
+                "list"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "조건에 따라 다른 동작을 수행할 때 사용하는 문법은?",
+            "choices": [
+                "for",
+                "while",
+                "if",
+                "def"
+            ],
+            "answer": 3
+        },
+        {
+            "question": "반복문 중 횟수가 정해진 경우 자주 사용하는 것은?",
+            "choices": [
+                "for",
+                "class",
+                "try",
+                "import"
+            ],
+            "answer": 1
+        },
+        {
+            "question": "함수를 정의할 때 사용하는 키워드는?",
+            "choices": [
+                "return",
+                "def",
+                "input",
+                "print"
+            ],
+            "answer": 2
+        },
+        {
+            "question": "리스트를 나타내는 기호는?",
+            "choices": [
+                "()",
+                "{}",
+                "[]",
+                "<>"
+            ],
+            "answer": 3
+        }
+    ],
+    "best_score": null,
+    "best_total": 0
+}
